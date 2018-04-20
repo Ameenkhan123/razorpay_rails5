@@ -1,0 +1,1 @@
+Razorpay.setup(Figaro.env.rzp_test_sg6Dwv4EKQN4yU, Figaro.env.L3ab7yxHeGaGJ4dXVoT2OWab)
